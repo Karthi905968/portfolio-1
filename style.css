@@ -6,6 +6,7 @@ COMMON
 
 body{
     font-family: "monospace", sans-serif;
+    background-color: rgba(250, 128, 114, 0.411) ;
 }
 
 .font-primary{
@@ -50,18 +51,21 @@ ABOUT
 
 #about .name{
     font-size: 19px;
+    font-weight: bold;
 }
 
 #about .vocation{
     font-size: 17px;
-    color: #a8a8ab;
+    color: #5c5c5e;
     margin-bottom: 10px;
+    font-weight: bold;
 }
 
 #about .skills{
     font-size: 14px;
     color: #00abae;
     margin-bottom: 10px;
+    font-weight: bold;
 }
 
 #about .email{
