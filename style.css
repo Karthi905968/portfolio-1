@@ -52,6 +52,15 @@ ABOUT
 }
 
 #about .email{
-    font-size: 30px;
+    font-size: 14px;
     margin-top: 14px;
+}
+
+#about .icon{
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+#about .icon a{
+    color: black;
 }
