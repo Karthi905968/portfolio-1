@@ -87,8 +87,17 @@ PROJECT
 #project{
     margin: 60px auto;
     width: 80%;
+    text-align: center;
 }
 
 #prjoect h2{
     text-align: center;
+}
+
+#project .card img{
+    width: 100%;
+}
+
+#project .card-title{
+    font-weight: bold;
 }
